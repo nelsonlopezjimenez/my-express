@@ -25,7 +25,9 @@
 ## Question about mklinks
 
 1. move or to recreate?
-1. In my-express/public/example.nel symlink target in public/videos/ so I cloned example.nel.git repository in that location and now it is working.
+1. In %public%/my-express/public/example.nel symlink target in public/videos/ so I cloned example.nel.git repository in that location and now it is working.
+1. in %userprofile%/Documents/GITHUBREPOS/my-express/pubic is empty and it will stay like that for  a while until it becomes clear how link, symlinks or shortcuts are dealt with.
+
 
 # README for my-express server on new laptop image (2023)
 

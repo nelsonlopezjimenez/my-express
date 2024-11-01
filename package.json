@@ -24,6 +24,8 @@
   "homepage": "https://github.com/nelsonlopezjimenez/my-express#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.1"
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
   }
 }
