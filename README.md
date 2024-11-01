@@ -1,4 +1,9 @@
 # LOG
+
+## Remember
+1. windows shortcuts can be copied/moved and still recognized
+1. windows mklink not
+1. windows mklink /D when try to copy, it grabs everything.
 ## 11.1.2024
 
 1.  Originally my-express was in public/canvas_file_caches/githubmine location but there was a warning that the owner of the folder was different from the current user. 
@@ -20,6 +25,7 @@
 ## Question about mklinks
 
 1. move or to recreate?
+1. In my-express/public/example.nel symlink target in public/videos/ so I cloned example.nel.git repository in that location and now it is working.
 
 # README for my-express server on new laptop image (2023)
 
